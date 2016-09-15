@@ -63,24 +63,30 @@
 }
 .fa-6x {
   font-size: 1.2em;
-  padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   color: black;
-  padding-left: 480px;
+  position:relative;
+  
 }
 
 .fa-7x {
   font-size: 1.3em;
-  padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   color: black;
-  padding-left: 480px;
+  position:relative;
+  
 }
 
 .fa-8x {
   font-size: 1.7em;
   padding: 10px;
+  padding-left: 150px;
   color: black;
-  padding-left: 493px;
+  text-align: center;
   padding-bottom: 40px;
+  display: block;
 }
 
 .fa-9x {
@@ -89,6 +95,7 @@
   color: black;
   padding-left: 50px;
   padding-bottom: 40px;
+  display: block;
 }
 
 .fa-fw {
